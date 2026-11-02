@@ -1,0 +1,15 @@
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\bin\Debug\net10.0\Rekenmachine.exe
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\bin\Debug\net10.0\Rekenmachine.deps.json
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\bin\Debug\net10.0\Rekenmachine.runtimeconfig.json
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\bin\Debug\net10.0\Rekenmachine.dll
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\bin\Debug\net10.0\Rekenmachine.pdb
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\obj\Debug\net10.0\Rekenmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\obj\Debug\net10.0\Rekenmachine.AssemblyInfoInputs.cache
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\obj\Debug\net10.0\Rekenmachine.AssemblyInfo.cs
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\obj\Debug\net10.0\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\obj\Debug\net10.0\Rekenmachine.dll
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\obj\Debug\net10.0\refint\Rekenmachine.dll
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\obj\Debug\net10.0\Rekenmachine.pdb
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\obj\Debug\net10.0\Rekenmachine.genruntimeconfig.cache
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\obj\Debug\net10.0\ref\Rekenmachine.dll
+C:\Users\jayso\Documents\C#RekenMachine\Rekenmachine\Rekenmachine\obj\Debug\net10.0\Rekenmac.08EC0714.Up2Date
